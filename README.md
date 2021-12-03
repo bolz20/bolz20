@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SaaS Mobile application that would follow the same pattern as evenote
+- 🌱 I’m currently learning Visual Design from the interactive Design Foundation Founded by Don Norman
+- 👯 I’m looking to collaborate on Mobile and web based application that solves usability problems
+- 💬 Ask me about ...
+- 📫 How to reach me: Via email at tolaniyan74@gmail.com
+- ⚡ Fun fact: ...
 <!--
 **bolz20/bolz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
